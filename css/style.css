@@ -188,7 +188,7 @@ a:focus {
     }
     
     .navbar.nav-sticky .navbar-brand {
-        color: #EF233C;
+        color: #2d8317;
     }
 
     .navbar-light .navbar-nav .nav-link,
@@ -211,7 +211,7 @@ a:focus {
     
     .navbar-light.nav-sticky .navbar-nav .nav-link:hover,
     .navbar-light.nav-sticky .navbar-nav .nav-link.active {
-        color: #EF233C;
+        color: #2d8317;
     }
 }
 
@@ -444,7 +444,6 @@ a:focus {
     top: 11px;
     right: 0;
     left: -30px;
-    background: #EF233C;
     z-index: -1;
 }
 
@@ -455,7 +454,7 @@ a:focus {
     height: 3px;
     top: 11px;
     left: 3px;
-    background: #EF233C;
+    background: #2d8317;
     z-index: 1;
 }
 
@@ -512,6 +511,9 @@ a:focus {
 
 .experience .skills {
     margin-bottom: 30px;
+}
+.experience h2{
+    color: #2d8317;
 }
 
 .experience .skill-name {
@@ -833,7 +835,9 @@ a:focus {
     font-size: 0;
     text-align: center;
 }
-
+.portfolio h3{
+    color: #2d8317;
+}
 .portfolio #portfolio-filter li {
     cursor: pointer;
     display: inline-block;
